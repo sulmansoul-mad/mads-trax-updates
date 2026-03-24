@@ -12,5 +12,3 @@ Changes:
 Release asset for this version:
 - `MADS_TRAX-macos.zip`
 
-Note:
-- `.dmg` packaging was skipped for this release because `hdiutil` was blocked by a system resource lock during packaging in the build environment.
