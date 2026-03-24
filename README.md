@@ -1,10 +1,16 @@
-# MADS TRAX Updates
+# MADS TRAX v2.0.1
 
-This repository hosts the public update channel for MADS TRAX.
+Initial public macOS test release.
 
-It is used for:
-- update manifests
-- release notes
-- downloadable release artifacts
+Changes:
+- improved packaging and app icon
+- update channel prepared
+- loudness defaults refined
+- UI and workflow fixes
+- self-contained macOS app bundle for testers
 
-The desktop app checks this repository for future updates.
+Release asset for this version:
+- `MADS_TRAX-macos.zip`
+
+Note:
+- `.dmg` packaging was skipped for this release because `hdiutil` was blocked by a system resource lock during packaging in the build environment.
