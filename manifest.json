@@ -1,1 +1,6 @@
-{"version": "2.0.1", "download_url": "https://github.com/sulmansoul-mad/mads-trax-updates/releases/download/v2.0.1/MADS_TRAX-macos.dmg", "notes_url": "https://github.com/sulmansoul-mad/mads-trax-updates/releases/tag/v2.0.1", "notes": "2.0.1: work in progress. Update channel setup and release pipeline preparation."}
+{
+  "version": "2.0.1",
+  "download_url": "https://github.com/sulmansoul-mad/mads-trax-updates/releases/download/v2.0.1/MADS_TRAX-macos.zip",
+  "notes_url": "https://github.com/sulmansoul-mad/mads-trax-updates/releases/tag/v2.0.1",
+  "notes": "2.0.1: initial public macOS test release, improved packaging, refined loudness defaults, update channel preparation. Distributed as zip for this release."
+}
